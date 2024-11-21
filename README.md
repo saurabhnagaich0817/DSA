@@ -42,6 +42,7 @@ FINAL DSA CODES
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/saurabhnagaich0817/DSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/saurabhnagaich0817/DSA/tree/master/0198-house-robber) |
 ## Matrix
 |  |
@@ -68,4 +69,12 @@ FINAL DSA CODES
 |  |
 | ------- |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/saurabhnagaich0817/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/saurabhnagaich0817/DSA/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/saurabhnagaich0817/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
