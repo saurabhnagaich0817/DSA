@@ -95,4 +95,12 @@ FINAL DSA CODES
 |  |
 | ------- |
 | [2089-maximum-matrix-sum](https://github.com/saurabhnagaich0817/DSA/tree/master/2089-maximum-matrix-sum) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/saurabhnagaich0817/DSA/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/saurabhnagaich0817/DSA/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
