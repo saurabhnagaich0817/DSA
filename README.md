@@ -7,6 +7,7 @@ FINAL DSA CODES
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saurabhnagaich0817/DSA/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/saurabhnagaich0817/DSA/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/saurabhnagaich0817/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/saurabhnagaich0817/DSA/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/0063-unique-paths-ii) |
@@ -33,6 +34,7 @@ FINAL DSA CODES
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/saurabhnagaich0817/DSA/tree/master/0018-4sum) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/saurabhnagaich0817/DSA/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1972-rotating-the-box](https://github.com/saurabhnagaich0817/DSA/tree/master/1972-rotating-the-box) |
 ## Stack
@@ -114,5 +116,6 @@ FINAL DSA CODES
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/saurabhnagaich0817/DSA/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/saurabhnagaich0817/DSA/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
