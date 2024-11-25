@@ -13,6 +13,7 @@ FINAL DSA CODES
 | [0063-unique-paths-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/saurabhnagaich0817/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0198-house-robber](https://github.com/saurabhnagaich0817/DSA/tree/master/0198-house-robber) |
+| [0787-sliding-puzzle](https://github.com/saurabhnagaich0817/DSA/tree/master/0787-sliding-puzzle) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/saurabhnagaich0817/DSA/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1972-rotating-the-box](https://github.com/saurabhnagaich0817/DSA/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/saurabhnagaich0817/DSA/tree/master/2089-maximum-matrix-sum) |
@@ -61,6 +62,7 @@ FINAL DSA CODES
 | ------- |
 | [0063-unique-paths-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/saurabhnagaich0817/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0787-sliding-puzzle](https://github.com/saurabhnagaich0817/DSA/tree/master/0787-sliding-puzzle) |
 | [1972-rotating-the-box](https://github.com/saurabhnagaich0817/DSA/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/saurabhnagaich0817/DSA/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/saurabhnagaich0817/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -71,6 +73,7 @@ FINAL DSA CODES
 ## Breadth-First Search
 |  |
 | ------- |
+| [0787-sliding-puzzle](https://github.com/saurabhnagaich0817/DSA/tree/master/0787-sliding-puzzle) |
 | [0801-is-graph-bipartite](https://github.com/saurabhnagaich0817/DSA/tree/master/0801-is-graph-bipartite) |
 ## Union Find
 |  |
