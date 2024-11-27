@@ -115,6 +115,7 @@ FINAL DSA CODES
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/saurabhnagaich0817/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0049-group-anagrams](https://github.com/saurabhnagaich0817/DSA/tree/master/0049-group-anagrams) |
 ## Sorting
 |  |
