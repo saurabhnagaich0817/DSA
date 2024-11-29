@@ -55,6 +55,7 @@ FINAL DSA CODES
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/saurabhnagaich0817/DSA/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/saurabhnagaich0817/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/saurabhnagaich0817/DSA/tree/master/0070-climbing-stairs) |
@@ -105,6 +106,7 @@ FINAL DSA CODES
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/saurabhnagaich0817/DSA/tree/master/0044-wildcard-matching) |
 | [2089-maximum-matrix-sum](https://github.com/saurabhnagaich0817/DSA/tree/master/2089-maximum-matrix-sum) |
 ## Linked List
 |  |
@@ -114,10 +116,12 @@ FINAL DSA CODES
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/saurabhnagaich0817/DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0044-wildcard-matching](https://github.com/saurabhnagaich0817/DSA/tree/master/0044-wildcard-matching) |
 ## String
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/saurabhnagaich0817/DSA/tree/master/0008-string-to-integer-atoi) |
+| [0044-wildcard-matching](https://github.com/saurabhnagaich0817/DSA/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/saurabhnagaich0817/DSA/tree/master/0049-group-anagrams) |
 ## Sorting
 |  |
