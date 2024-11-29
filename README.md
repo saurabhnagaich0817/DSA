@@ -27,6 +27,7 @@ FINAL DSA CODES
 | [0001-two-sum](https://github.com/saurabhnagaich0817/DSA/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/saurabhnagaich0817/DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/saurabhnagaich0817/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0290-word-pattern](https://github.com/saurabhnagaich0817/DSA/tree/master/0290-word-pattern) |
 ## Binary Search
 |  |
 | ------- |
@@ -123,6 +124,7 @@ FINAL DSA CODES
 | [0008-string-to-integer-atoi](https://github.com/saurabhnagaich0817/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0044-wildcard-matching](https://github.com/saurabhnagaich0817/DSA/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/saurabhnagaich0817/DSA/tree/master/0049-group-anagrams) |
+| [0290-word-pattern](https://github.com/saurabhnagaich0817/DSA/tree/master/0290-word-pattern) |
 ## Sorting
 |  |
 | ------- |
