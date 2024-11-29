@@ -113,10 +113,12 @@ FINAL DSA CODES
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/saurabhnagaich0817/DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/saurabhnagaich0817/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 ## Recursion
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/saurabhnagaich0817/DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/saurabhnagaich0817/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/saurabhnagaich0817/DSA/tree/master/0044-wildcard-matching) |
 ## String
 |  |
