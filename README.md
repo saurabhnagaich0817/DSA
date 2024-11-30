@@ -9,6 +9,7 @@ FINAL DSA CODES
 | [0001-two-sum](https://github.com/saurabhnagaich0817/DSA/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/saurabhnagaich0817/DSA/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/saurabhnagaich0817/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/saurabhnagaich0817/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/saurabhnagaich0817/DSA/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/saurabhnagaich0817/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -27,6 +28,7 @@ FINAL DSA CODES
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saurabhnagaich0817/DSA/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/saurabhnagaich0817/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/saurabhnagaich0817/DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/saurabhnagaich0817/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0290-word-pattern](https://github.com/saurabhnagaich0817/DSA/tree/master/0290-word-pattern) |
@@ -69,6 +71,7 @@ FINAL DSA CODES
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/saurabhnagaich0817/DSA/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/saurabhnagaich0817/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0787-sliding-puzzle](https://github.com/saurabhnagaich0817/DSA/tree/master/0787-sliding-puzzle) |
