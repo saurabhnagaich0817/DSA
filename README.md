@@ -42,6 +42,7 @@ FINAL DSA CODES
 |  |
 | ------- |
 | [0018-4sum](https://github.com/saurabhnagaich0817/DSA/tree/master/0018-4sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saurabhnagaich0817/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0941-sort-array-by-parity](https://github.com/saurabhnagaich0817/DSA/tree/master/0941-sort-array-by-parity) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/saurabhnagaich0817/DSA/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1972-rotating-the-box](https://github.com/saurabhnagaich0817/DSA/tree/master/1972-rotating-the-box) |
@@ -128,6 +129,7 @@ FINAL DSA CODES
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/saurabhnagaich0817/DSA/tree/master/0008-string-to-integer-atoi) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saurabhnagaich0817/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/saurabhnagaich0817/DSA/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/saurabhnagaich0817/DSA/tree/master/0049-group-anagrams) |
 | [0290-word-pattern](https://github.com/saurabhnagaich0817/DSA/tree/master/0290-word-pattern) |
@@ -141,4 +143,8 @@ FINAL DSA CODES
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/saurabhnagaich0817/DSA/tree/master/0525-contiguous-array) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saurabhnagaich0817/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
