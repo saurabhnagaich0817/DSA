@@ -46,6 +46,7 @@ FINAL DSA CODES
 | [0018-4sum](https://github.com/saurabhnagaich0817/DSA/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saurabhnagaich0817/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0941-sort-array-by-parity](https://github.com/saurabhnagaich0817/DSA/tree/master/0941-sort-array-by-parity) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/saurabhnagaich0817/DSA/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/saurabhnagaich0817/DSA/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1972-rotating-the-box](https://github.com/saurabhnagaich0817/DSA/tree/master/1972-rotating-the-box) |
 ## Stack
@@ -136,6 +137,7 @@ FINAL DSA CODES
 | [0044-wildcard-matching](https://github.com/saurabhnagaich0817/DSA/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/saurabhnagaich0817/DSA/tree/master/0049-group-anagrams) |
 | [0290-word-pattern](https://github.com/saurabhnagaich0817/DSA/tree/master/0290-word-pattern) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/saurabhnagaich0817/DSA/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Sorting
 |  |
 | ------- |
@@ -150,4 +152,5 @@ FINAL DSA CODES
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saurabhnagaich0817/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/saurabhnagaich0817/DSA/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 <!---LeetCode Topics End-->
