@@ -7,6 +7,7 @@ FINAL DSA CODES
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saurabhnagaich0817/DSA/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/saurabhnagaich0817/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/saurabhnagaich0817/DSA/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/saurabhnagaich0817/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/saurabhnagaich0817/DSA/tree/master/0036-valid-sudoku) |
@@ -51,6 +52,7 @@ FINAL DSA CODES
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/saurabhnagaich0817/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/saurabhnagaich0817/DSA/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saurabhnagaich0817/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/saurabhnagaich0817/DSA/tree/master/0088-merge-sorted-array) |
@@ -161,6 +163,7 @@ FINAL DSA CODES
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/saurabhnagaich0817/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/saurabhnagaich0817/DSA/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/saurabhnagaich0817/DSA/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/saurabhnagaich0817/DSA/tree/master/0088-merge-sorted-array) |
