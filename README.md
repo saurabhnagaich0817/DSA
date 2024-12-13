@@ -32,6 +32,7 @@ FINAL DSA CODES
 | [2271-rearrange-array-elements-by-sign](https://github.com/saurabhnagaich0817/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/saurabhnagaich0817/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/saurabhnagaich0817/DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/saurabhnagaich0817/DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/saurabhnagaich0817/DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/saurabhnagaich0817/DSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3427-special-array-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/3427-special-array-ii) |
@@ -46,6 +47,7 @@ FINAL DSA CODES
 | [0290-word-pattern](https://github.com/saurabhnagaich0817/DSA/tree/master/0290-word-pattern) |
 | [0525-contiguous-array](https://github.com/saurabhnagaich0817/DSA/tree/master/0525-contiguous-array) |
 | [0575-distribute-candies](https://github.com/saurabhnagaich0817/DSA/tree/master/0575-distribute-candies) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/saurabhnagaich0817/DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/saurabhnagaich0817/DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/saurabhnagaich0817/DSA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Binary Search
@@ -134,6 +136,7 @@ FINAL DSA CODES
 | [2271-rearrange-array-elements-by-sign](https://github.com/saurabhnagaich0817/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/saurabhnagaich0817/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/saurabhnagaich0817/DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/saurabhnagaich0817/DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Math
 |  |
 | ------- |
@@ -185,6 +188,7 @@ FINAL DSA CODES
 | [0088-merge-sorted-array](https://github.com/saurabhnagaich0817/DSA/tree/master/0088-merge-sorted-array) |
 | [0941-sort-array-by-parity](https://github.com/saurabhnagaich0817/DSA/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/0958-sort-array-by-parity-ii) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/saurabhnagaich0817/DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/saurabhnagaich0817/DSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Prefix Sum
 |  |
@@ -204,4 +208,5 @@ FINAL DSA CODES
 |  |
 | ------- |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/saurabhnagaich0817/DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/saurabhnagaich0817/DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 <!---LeetCode Topics End-->
