@@ -24,6 +24,7 @@ FINAL DSA CODES
 | [0958-sort-array-by-parity-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/0958-sort-array-by-parity-ii) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/saurabhnagaich0817/DSA/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/saurabhnagaich0817/DSA/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1917-maximum-average-pass-ratio](https://github.com/saurabhnagaich0817/DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [1972-rotating-the-box](https://github.com/saurabhnagaich0817/DSA/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/saurabhnagaich0817/DSA/tree/master/2089-maximum-matrix-sum) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/saurabhnagaich0817/DSA/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -157,6 +158,7 @@ FINAL DSA CODES
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/saurabhnagaich0817/DSA/tree/master/0044-wildcard-matching) |
+| [1917-maximum-average-pass-ratio](https://github.com/saurabhnagaich0817/DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/saurabhnagaich0817/DSA/tree/master/2089-maximum-matrix-sum) |
 ## Linked List
 |  |
@@ -209,6 +211,7 @@ FINAL DSA CODES
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/saurabhnagaich0817/DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/saurabhnagaich0817/DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/saurabhnagaich0817/DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/saurabhnagaich0817/DSA/tree/master/2868-continuous-subarrays) |
