@@ -120,6 +120,7 @@ FINAL DSA CODES
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/saurabhnagaich0817/DSA/tree/master/0801-is-graph-bipartite) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/saurabhnagaich0817/DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/saurabhnagaich0817/DSA/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -237,6 +238,7 @@ FINAL DSA CODES
 |  |
 | ------- |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/saurabhnagaich0817/DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/saurabhnagaich0817/DSA/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
 | ------- |
