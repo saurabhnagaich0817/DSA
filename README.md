@@ -127,6 +127,7 @@ FINAL DSA CODES
 | [0787-sliding-puzzle](https://github.com/saurabhnagaich0817/DSA/tree/master/0787-sliding-puzzle) |
 | [0801-is-graph-bipartite](https://github.com/saurabhnagaich0817/DSA/tree/master/0801-is-graph-bipartite) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/saurabhnagaich0817/DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/saurabhnagaich0817/DSA/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Union Find
 |  |
 | ------- |
@@ -238,9 +239,11 @@ FINAL DSA CODES
 |  |
 | ------- |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/saurabhnagaich0817/DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/saurabhnagaich0817/DSA/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/saurabhnagaich0817/DSA/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
 | ------- |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/saurabhnagaich0817/DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/saurabhnagaich0817/DSA/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 <!---LeetCode Topics End-->
