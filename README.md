@@ -24,6 +24,7 @@ FINAL DSA CODES
 | [0787-sliding-puzzle](https://github.com/saurabhnagaich0817/DSA/tree/master/0787-sliding-puzzle) |
 | [0941-sort-array-by-parity](https://github.com/saurabhnagaich0817/DSA/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/0958-sort-array-by-parity-ii) |
+| [1063-best-sightseeing-pair](https://github.com/saurabhnagaich0817/DSA/tree/master/1063-best-sightseeing-pair) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/saurabhnagaich0817/DSA/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/saurabhnagaich0817/DSA/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/saurabhnagaich0817/DSA/tree/master/1917-maximum-average-pass-ratio) |
@@ -108,6 +109,7 @@ FINAL DSA CODES
 | [0070-climbing-stairs](https://github.com/saurabhnagaich0817/DSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/saurabhnagaich0817/DSA/tree/master/0198-house-robber) |
 | [0494-target-sum](https://github.com/saurabhnagaich0817/DSA/tree/master/0494-target-sum) |
+| [1063-best-sightseeing-pair](https://github.com/saurabhnagaich0817/DSA/tree/master/1063-best-sightseeing-pair) |
 ## Matrix
 |  |
 | ------- |
