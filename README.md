@@ -17,6 +17,7 @@ FINAL DSA CODES
 | [0088-merge-sorted-array](https://github.com/saurabhnagaich0817/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/saurabhnagaich0817/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/saurabhnagaich0817/DSA/tree/master/0198-house-robber) |
+| [0289-game-of-life](https://github.com/saurabhnagaich0817/DSA/tree/master/0289-game-of-life) |
 | [0494-target-sum](https://github.com/saurabhnagaich0817/DSA/tree/master/0494-target-sum) |
 | [0525-contiguous-array](https://github.com/saurabhnagaich0817/DSA/tree/master/0525-contiguous-array) |
 | [0575-distribute-candies](https://github.com/saurabhnagaich0817/DSA/tree/master/0575-distribute-candies) |
@@ -113,6 +114,7 @@ FINAL DSA CODES
 | [0036-valid-sudoku](https://github.com/saurabhnagaich0817/DSA/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/saurabhnagaich0817/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0289-game-of-life](https://github.com/saurabhnagaich0817/DSA/tree/master/0289-game-of-life) |
 | [0787-sliding-puzzle](https://github.com/saurabhnagaich0817/DSA/tree/master/0787-sliding-puzzle) |
 | [1972-rotating-the-box](https://github.com/saurabhnagaich0817/DSA/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/saurabhnagaich0817/DSA/tree/master/2089-maximum-matrix-sum) |
@@ -144,6 +146,7 @@ FINAL DSA CODES
 ## Simulation
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/saurabhnagaich0817/DSA/tree/master/0289-game-of-life) |
 | [2232-adding-spaces-to-a-string](https://github.com/saurabhnagaich0817/DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/saurabhnagaich0817/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/saurabhnagaich0817/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
