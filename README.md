@@ -145,11 +145,13 @@ FINAL DSA CODES
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/saurabhnagaich0817/DSA/tree/master/0801-is-graph-bipartite) |
+| [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/saurabhnagaich0817/DSA/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1706-min-cost-to-connect-all-points](https://github.com/saurabhnagaich0817/DSA/tree/master/1706-min-cost-to-connect-all-points) |
 ## Graph
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/saurabhnagaich0817/DSA/tree/master/0801-is-graph-bipartite) |
+| [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/saurabhnagaich0817/DSA/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1706-min-cost-to-connect-all-points](https://github.com/saurabhnagaich0817/DSA/tree/master/1706-min-cost-to-connect-all-points) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/saurabhnagaich0817/DSA/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Simulation
