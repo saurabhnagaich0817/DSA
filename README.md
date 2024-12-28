@@ -30,6 +30,7 @@ FINAL DSA CODES
 | [1036-rotting-oranges](https://github.com/saurabhnagaich0817/DSA/tree/master/1036-rotting-oranges) |
 | [1063-best-sightseeing-pair](https://github.com/saurabhnagaich0817/DSA/tree/master/1063-best-sightseeing-pair) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/saurabhnagaich0817/DSA/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/saurabhnagaich0817/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1706-min-cost-to-connect-all-points](https://github.com/saurabhnagaich0817/DSA/tree/master/1706-min-cost-to-connect-all-points) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/saurabhnagaich0817/DSA/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/saurabhnagaich0817/DSA/tree/master/1917-maximum-average-pass-ratio) |
@@ -180,6 +181,7 @@ FINAL DSA CODES
 | [0062-unique-paths](https://github.com/saurabhnagaich0817/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/saurabhnagaich0817/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/saurabhnagaich0817/DSA/tree/master/0189-rotate-array) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/saurabhnagaich0817/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/saurabhnagaich0817/DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Memoization
 |  |
@@ -193,6 +195,7 @@ FINAL DSA CODES
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/saurabhnagaich0817/DSA/tree/master/0044-wildcard-matching) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/saurabhnagaich0817/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1917-maximum-average-pass-ratio](https://github.com/saurabhnagaich0817/DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/saurabhnagaich0817/DSA/tree/master/2089-maximum-matrix-sum) |
 ## Linked List
@@ -228,6 +231,7 @@ FINAL DSA CODES
 | [0088-merge-sorted-array](https://github.com/saurabhnagaich0817/DSA/tree/master/0088-merge-sorted-array) |
 | [0941-sort-array-by-parity](https://github.com/saurabhnagaich0817/DSA/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/0958-sort-array-by-parity-ii) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/saurabhnagaich0817/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/saurabhnagaich0817/DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/saurabhnagaich0817/DSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Prefix Sum
@@ -294,4 +298,8 @@ FINAL DSA CODES
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/saurabhnagaich0817/DSA/tree/master/1706-min-cost-to-connect-all-points) |
+## Game Theory
+|  |
+| ------- |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/saurabhnagaich0817/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->
