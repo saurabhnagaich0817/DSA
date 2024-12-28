@@ -25,6 +25,7 @@ FINAL DSA CODES
 | [0787-sliding-puzzle](https://github.com/saurabhnagaich0817/DSA/tree/master/0787-sliding-puzzle) |
 | [0941-sort-array-by-parity](https://github.com/saurabhnagaich0817/DSA/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/0958-sort-array-by-parity-ii) |
+| [0971-shortest-bridge](https://github.com/saurabhnagaich0817/DSA/tree/master/0971-shortest-bridge) |
 | [0980-find-the-shortest-superstring](https://github.com/saurabhnagaich0817/DSA/tree/master/0980-find-the-shortest-superstring) |
 | [1036-rotting-oranges](https://github.com/saurabhnagaich0817/DSA/tree/master/1036-rotting-oranges) |
 | [1063-best-sightseeing-pair](https://github.com/saurabhnagaich0817/DSA/tree/master/1063-best-sightseeing-pair) |
@@ -126,6 +127,7 @@ FINAL DSA CODES
 | [0073-set-matrix-zeroes](https://github.com/saurabhnagaich0817/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/saurabhnagaich0817/DSA/tree/master/0289-game-of-life) |
 | [0787-sliding-puzzle](https://github.com/saurabhnagaich0817/DSA/tree/master/0787-sliding-puzzle) |
+| [0971-shortest-bridge](https://github.com/saurabhnagaich0817/DSA/tree/master/0971-shortest-bridge) |
 | [1036-rotting-oranges](https://github.com/saurabhnagaich0817/DSA/tree/master/1036-rotting-oranges) |
 | [1972-rotating-the-box](https://github.com/saurabhnagaich0817/DSA/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/saurabhnagaich0817/DSA/tree/master/2089-maximum-matrix-sum) |
@@ -134,6 +136,7 @@ FINAL DSA CODES
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/saurabhnagaich0817/DSA/tree/master/0801-is-graph-bipartite) |
+| [0971-shortest-bridge](https://github.com/saurabhnagaich0817/DSA/tree/master/0971-shortest-bridge) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/saurabhnagaich0817/DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/saurabhnagaich0817/DSA/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/saurabhnagaich0817/DSA/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -142,6 +145,7 @@ FINAL DSA CODES
 | ------- |
 | [0787-sliding-puzzle](https://github.com/saurabhnagaich0817/DSA/tree/master/0787-sliding-puzzle) |
 | [0801-is-graph-bipartite](https://github.com/saurabhnagaich0817/DSA/tree/master/0801-is-graph-bipartite) |
+| [0971-shortest-bridge](https://github.com/saurabhnagaich0817/DSA/tree/master/0971-shortest-bridge) |
 | [1036-rotting-oranges](https://github.com/saurabhnagaich0817/DSA/tree/master/1036-rotting-oranges) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/saurabhnagaich0817/DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/saurabhnagaich0817/DSA/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
