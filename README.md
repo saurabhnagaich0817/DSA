@@ -98,6 +98,7 @@ FINAL DSA CODES
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/saurabhnagaich0817/DSA/tree/master/0394-decode-string) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/saurabhnagaich0817/DSA/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2470-removing-stars-from-a-string](https://github.com/saurabhnagaich0817/DSA/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
@@ -217,6 +218,7 @@ FINAL DSA CODES
 | [0024-swap-nodes-in-pairs](https://github.com/saurabhnagaich0817/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/saurabhnagaich0817/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/saurabhnagaich0817/DSA/tree/master/0044-wildcard-matching) |
+| [0394-decode-string](https://github.com/saurabhnagaich0817/DSA/tree/master/0394-decode-string) |
 ## String
 |  |
 | ------- |
@@ -226,6 +228,7 @@ FINAL DSA CODES
 | [0044-wildcard-matching](https://github.com/saurabhnagaich0817/DSA/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/saurabhnagaich0817/DSA/tree/master/0049-group-anagrams) |
 | [0290-word-pattern](https://github.com/saurabhnagaich0817/DSA/tree/master/0290-word-pattern) |
+| [0394-decode-string](https://github.com/saurabhnagaich0817/DSA/tree/master/0394-decode-string) |
 | [0980-find-the-shortest-superstring](https://github.com/saurabhnagaich0817/DSA/tree/master/0980-find-the-shortest-superstring) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/saurabhnagaich0817/DSA/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/saurabhnagaich0817/DSA/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
