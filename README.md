@@ -42,6 +42,7 @@ FINAL DSA CODES
 | [2089-maximum-matrix-sum](https://github.com/saurabhnagaich0817/DSA/tree/master/2089-maximum-matrix-sum) |
 | [2166-number-of-valid-move-combinations-on-chessboard](https://github.com/saurabhnagaich0817/DSA/tree/master/2166-number-of-valid-move-combinations-on-chessboard) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/saurabhnagaich0817/DSA/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2189-maximum-path-quality-of-a-graph](https://github.com/saurabhnagaich0817/DSA/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2232-adding-spaces-to-a-string](https://github.com/saurabhnagaich0817/DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/saurabhnagaich0817/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/saurabhnagaich0817/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -171,6 +172,7 @@ FINAL DSA CODES
 | [0801-is-graph-bipartite](https://github.com/saurabhnagaich0817/DSA/tree/master/0801-is-graph-bipartite) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/saurabhnagaich0817/DSA/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1706-min-cost-to-connect-all-points](https://github.com/saurabhnagaich0817/DSA/tree/master/1706-min-cost-to-connect-all-points) |
+| [2189-maximum-path-quality-of-a-graph](https://github.com/saurabhnagaich0817/DSA/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/saurabhnagaich0817/DSA/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Simulation
 |  |
@@ -304,6 +306,7 @@ FINAL DSA CODES
 | [0089-gray-code](https://github.com/saurabhnagaich0817/DSA/tree/master/0089-gray-code) |
 | [0494-target-sum](https://github.com/saurabhnagaich0817/DSA/tree/master/0494-target-sum) |
 | [2166-number-of-valid-move-combinations-on-chessboard](https://github.com/saurabhnagaich0817/DSA/tree/master/2166-number-of-valid-move-combinations-on-chessboard) |
+| [2189-maximum-path-quality-of-a-graph](https://github.com/saurabhnagaich0817/DSA/tree/master/2189-maximum-path-quality-of-a-graph) |
 ## Bit Manipulation
 |  |
 | ------- |
