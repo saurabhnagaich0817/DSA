@@ -22,6 +22,7 @@ FINAL DSA CODES
 | [0525-contiguous-array](https://github.com/saurabhnagaich0817/DSA/tree/master/0525-contiguous-array) |
 | [0575-distribute-candies](https://github.com/saurabhnagaich0817/DSA/tree/master/0575-distribute-candies) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/saurabhnagaich0817/DSA/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0724-find-pivot-index](https://github.com/saurabhnagaich0817/DSA/tree/master/0724-find-pivot-index) |
 | [0787-sliding-puzzle](https://github.com/saurabhnagaich0817/DSA/tree/master/0787-sliding-puzzle) |
 | [0941-sort-array-by-parity](https://github.com/saurabhnagaich0817/DSA/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/0958-sort-array-by-parity-ii) |
@@ -242,6 +243,7 @@ FINAL DSA CODES
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/saurabhnagaich0817/DSA/tree/master/0525-contiguous-array) |
+| [0724-find-pivot-index](https://github.com/saurabhnagaich0817/DSA/tree/master/0724-find-pivot-index) |
 | [3427-special-array-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/3427-special-array-ii) |
 ## String Matching
 |  |
