@@ -273,6 +273,7 @@ FINAL DSA CODES
 ## Queue
 |  |
 | ------- |
+| [0969-number-of-recent-calls](https://github.com/saurabhnagaich0817/DSA/tree/master/0969-number-of-recent-calls) |
 | [2868-continuous-subarrays](https://github.com/saurabhnagaich0817/DSA/tree/master/2868-continuous-subarrays) |
 ## Ordered Set
 |  |
@@ -318,4 +319,12 @@ FINAL DSA CODES
 |  |
 | ------- |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/saurabhnagaich0817/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
+## Design
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/saurabhnagaich0817/DSA/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/saurabhnagaich0817/DSA/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
