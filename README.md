@@ -30,6 +30,7 @@ FINAL DSA CODES
 | [0980-find-the-shortest-superstring](https://github.com/saurabhnagaich0817/DSA/tree/master/0980-find-the-shortest-superstring) |
 | [1036-rotting-oranges](https://github.com/saurabhnagaich0817/DSA/tree/master/1036-rotting-oranges) |
 | [1063-best-sightseeing-pair](https://github.com/saurabhnagaich0817/DSA/tree/master/1063-best-sightseeing-pair) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/saurabhnagaich0817/DSA/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/saurabhnagaich0817/DSA/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/saurabhnagaich0817/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1706-min-cost-to-connect-all-points](https://github.com/saurabhnagaich0817/DSA/tree/master/1706-min-cost-to-connect-all-points) |
@@ -62,6 +63,7 @@ FINAL DSA CODES
 | [0290-word-pattern](https://github.com/saurabhnagaich0817/DSA/tree/master/0290-word-pattern) |
 | [0525-contiguous-array](https://github.com/saurabhnagaich0817/DSA/tree/master/0525-contiguous-array) |
 | [0575-distribute-candies](https://github.com/saurabhnagaich0817/DSA/tree/master/0575-distribute-candies) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/saurabhnagaich0817/DSA/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/saurabhnagaich0817/DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/saurabhnagaich0817/DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/saurabhnagaich0817/DSA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
