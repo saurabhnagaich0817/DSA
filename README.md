@@ -46,6 +46,7 @@ FINAL DSA CODES
 | [2232-adding-spaces-to-a-string](https://github.com/saurabhnagaich0817/DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/saurabhnagaich0817/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/saurabhnagaich0817/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2272-maximum-good-people-based-on-statements](https://github.com/saurabhnagaich0817/DSA/tree/master/2272-maximum-good-people-based-on-statements) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/saurabhnagaich0817/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/saurabhnagaich0817/DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/saurabhnagaich0817/DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -307,12 +308,14 @@ FINAL DSA CODES
 | [0494-target-sum](https://github.com/saurabhnagaich0817/DSA/tree/master/0494-target-sum) |
 | [2166-number-of-valid-move-combinations-on-chessboard](https://github.com/saurabhnagaich0817/DSA/tree/master/2166-number-of-valid-move-combinations-on-chessboard) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/saurabhnagaich0817/DSA/tree/master/2189-maximum-path-quality-of-a-graph) |
+| [2272-maximum-good-people-based-on-statements](https://github.com/saurabhnagaich0817/DSA/tree/master/2272-maximum-good-people-based-on-statements) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/saurabhnagaich0817/DSA/tree/master/0089-gray-code) |
 | [0980-find-the-shortest-superstring](https://github.com/saurabhnagaich0817/DSA/tree/master/0980-find-the-shortest-superstring) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/saurabhnagaich0817/DSA/tree/master/1989-minimum-xor-sum-of-two-arrays) |
+| [2272-maximum-good-people-based-on-statements](https://github.com/saurabhnagaich0817/DSA/tree/master/2272-maximum-good-people-based-on-statements) |
 ## Bitmask
 |  |
 | ------- |
@@ -334,4 +337,8 @@ FINAL DSA CODES
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/saurabhnagaich0817/DSA/tree/master/0969-number-of-recent-calls) |
+## Enumeration
+|  |
+| ------- |
+| [2272-maximum-good-people-based-on-statements](https://github.com/saurabhnagaich0817/DSA/tree/master/2272-maximum-good-people-based-on-statements) |
 <!---LeetCode Topics End-->
