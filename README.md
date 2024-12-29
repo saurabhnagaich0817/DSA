@@ -213,6 +213,7 @@ FINAL DSA CODES
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/saurabhnagaich0817/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1917-maximum-average-pass-ratio](https://github.com/saurabhnagaich0817/DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/saurabhnagaich0817/DSA/tree/master/2089-maximum-matrix-sum) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/saurabhnagaich0817/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/3635-smallest-divisible-digit-product-ii) |
 ## Linked List
 |  |
@@ -239,6 +240,7 @@ FINAL DSA CODES
 | [0980-find-the-shortest-superstring](https://github.com/saurabhnagaich0817/DSA/tree/master/0980-find-the-shortest-superstring) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/saurabhnagaich0817/DSA/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/saurabhnagaich0817/DSA/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/saurabhnagaich0817/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2166-number-of-valid-move-combinations-on-chessboard](https://github.com/saurabhnagaich0817/DSA/tree/master/2166-number-of-valid-move-combinations-on-chessboard) |
 | [2232-adding-spaces-to-a-string](https://github.com/saurabhnagaich0817/DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/saurabhnagaich0817/DSA/tree/master/2470-removing-stars-from-a-string) |
@@ -270,6 +272,7 @@ FINAL DSA CODES
 ## Counting
 |  |
 | ------- |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/saurabhnagaich0817/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/saurabhnagaich0817/DSA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Heap (Priority Queue)
 |  |
@@ -309,6 +312,7 @@ FINAL DSA CODES
 | ------- |
 | [0089-gray-code](https://github.com/saurabhnagaich0817/DSA/tree/master/0089-gray-code) |
 | [0494-target-sum](https://github.com/saurabhnagaich0817/DSA/tree/master/0494-target-sum) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/saurabhnagaich0817/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2166-number-of-valid-move-combinations-on-chessboard](https://github.com/saurabhnagaich0817/DSA/tree/master/2166-number-of-valid-move-combinations-on-chessboard) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/saurabhnagaich0817/DSA/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2272-maximum-good-people-based-on-statements](https://github.com/saurabhnagaich0817/DSA/tree/master/2272-maximum-good-people-based-on-statements) |
@@ -344,6 +348,7 @@ FINAL DSA CODES
 ## Enumeration
 |  |
 | ------- |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/saurabhnagaich0817/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2272-maximum-good-people-based-on-statements](https://github.com/saurabhnagaich0817/DSA/tree/master/2272-maximum-good-people-based-on-statements) |
 ## Number Theory
 |  |
