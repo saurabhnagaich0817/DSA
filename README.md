@@ -40,6 +40,7 @@ FINAL DSA CODES
 | [1972-rotating-the-box](https://github.com/saurabhnagaich0817/DSA/tree/master/1972-rotating-the-box) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/saurabhnagaich0817/DSA/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2089-maximum-matrix-sum](https://github.com/saurabhnagaich0817/DSA/tree/master/2089-maximum-matrix-sum) |
+| [2166-number-of-valid-move-combinations-on-chessboard](https://github.com/saurabhnagaich0817/DSA/tree/master/2166-number-of-valid-move-combinations-on-chessboard) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/saurabhnagaich0817/DSA/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2232-adding-spaces-to-a-string](https://github.com/saurabhnagaich0817/DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/saurabhnagaich0817/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -175,6 +176,7 @@ FINAL DSA CODES
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/saurabhnagaich0817/DSA/tree/master/0289-game-of-life) |
+| [2166-number-of-valid-move-combinations-on-chessboard](https://github.com/saurabhnagaich0817/DSA/tree/master/2166-number-of-valid-move-combinations-on-chessboard) |
 | [2232-adding-spaces-to-a-string](https://github.com/saurabhnagaich0817/DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/saurabhnagaich0817/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/saurabhnagaich0817/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -232,6 +234,7 @@ FINAL DSA CODES
 | [0980-find-the-shortest-superstring](https://github.com/saurabhnagaich0817/DSA/tree/master/0980-find-the-shortest-superstring) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/saurabhnagaich0817/DSA/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/saurabhnagaich0817/DSA/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2166-number-of-valid-move-combinations-on-chessboard](https://github.com/saurabhnagaich0817/DSA/tree/master/2166-number-of-valid-move-combinations-on-chessboard) |
 | [2232-adding-spaces-to-a-string](https://github.com/saurabhnagaich0817/DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/saurabhnagaich0817/DSA/tree/master/2470-removing-stars-from-a-string) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/saurabhnagaich0817/DSA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -300,6 +303,7 @@ FINAL DSA CODES
 | ------- |
 | [0089-gray-code](https://github.com/saurabhnagaich0817/DSA/tree/master/0089-gray-code) |
 | [0494-target-sum](https://github.com/saurabhnagaich0817/DSA/tree/master/0494-target-sum) |
+| [2166-number-of-valid-move-combinations-on-chessboard](https://github.com/saurabhnagaich0817/DSA/tree/master/2166-number-of-valid-move-combinations-on-chessboard) |
 ## Bit Manipulation
 |  |
 | ------- |
