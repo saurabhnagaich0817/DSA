@@ -197,6 +197,7 @@ FINAL DSA CODES
 | [0189-rotate-array](https://github.com/saurabhnagaich0817/DSA/tree/master/0189-rotate-array) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/saurabhnagaich0817/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/saurabhnagaich0817/DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/3635-smallest-divisible-digit-product-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -212,6 +213,7 @@ FINAL DSA CODES
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/saurabhnagaich0817/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1917-maximum-average-pass-ratio](https://github.com/saurabhnagaich0817/DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/saurabhnagaich0817/DSA/tree/master/2089-maximum-matrix-sum) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/3635-smallest-divisible-digit-product-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -241,6 +243,7 @@ FINAL DSA CODES
 | [2232-adding-spaces-to-a-string](https://github.com/saurabhnagaich0817/DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/saurabhnagaich0817/DSA/tree/master/2470-removing-stars-from-a-string) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/saurabhnagaich0817/DSA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/3635-smallest-divisible-digit-product-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -309,6 +312,7 @@ FINAL DSA CODES
 | [2166-number-of-valid-move-combinations-on-chessboard](https://github.com/saurabhnagaich0817/DSA/tree/master/2166-number-of-valid-move-combinations-on-chessboard) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/saurabhnagaich0817/DSA/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2272-maximum-good-people-based-on-statements](https://github.com/saurabhnagaich0817/DSA/tree/master/2272-maximum-good-people-based-on-statements) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/3635-smallest-divisible-digit-product-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -341,4 +345,8 @@ FINAL DSA CODES
 |  |
 | ------- |
 | [2272-maximum-good-people-based-on-statements](https://github.com/saurabhnagaich0817/DSA/tree/master/2272-maximum-good-people-based-on-statements) |
+## Number Theory
+|  |
+| ------- |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/3635-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
