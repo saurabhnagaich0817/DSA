@@ -23,6 +23,7 @@ FINAL DSA CODES
 | [0575-distribute-candies](https://github.com/saurabhnagaich0817/DSA/tree/master/0575-distribute-candies) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/saurabhnagaich0817/DSA/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0724-find-pivot-index](https://github.com/saurabhnagaich0817/DSA/tree/master/0724-find-pivot-index) |
+| [0731-my-calendar-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/0731-my-calendar-ii) |
 | [0787-sliding-puzzle](https://github.com/saurabhnagaich0817/DSA/tree/master/0787-sliding-puzzle) |
 | [0870-magic-squares-in-grid](https://github.com/saurabhnagaich0817/DSA/tree/master/0870-magic-squares-in-grid) |
 | [0941-sort-array-by-parity](https://github.com/saurabhnagaich0817/DSA/tree/master/0941-sort-array-by-parity) |
@@ -80,6 +81,7 @@ FINAL DSA CODES
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/saurabhnagaich0817/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0731-my-calendar-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/0731-my-calendar-ii) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/saurabhnagaich0817/DSA/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/saurabhnagaich0817/DSA/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/saurabhnagaich0817/DSA/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -282,6 +284,7 @@ FINAL DSA CODES
 | ------- |
 | [0525-contiguous-array](https://github.com/saurabhnagaich0817/DSA/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/saurabhnagaich0817/DSA/tree/master/0724-find-pivot-index) |
+| [0731-my-calendar-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/0731-my-calendar-ii) |
 | [3427-special-array-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/3427-special-array-ii) |
 ## String Matching
 |  |
@@ -309,6 +312,7 @@ FINAL DSA CODES
 ## Ordered Set
 |  |
 | ------- |
+| [0731-my-calendar-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/0731-my-calendar-ii) |
 | [2868-continuous-subarrays](https://github.com/saurabhnagaich0817/DSA/tree/master/2868-continuous-subarrays) |
 ## Monotonic Queue
 |  |
@@ -362,6 +366,7 @@ FINAL DSA CODES
 ## Design
 |  |
 | ------- |
+| [0731-my-calendar-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/0731-my-calendar-ii) |
 | [0969-number-of-recent-calls](https://github.com/saurabhnagaich0817/DSA/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
@@ -381,4 +386,8 @@ FINAL DSA CODES
 |  |
 | ------- |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/saurabhnagaich0817/DSA/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+## Segment Tree
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
