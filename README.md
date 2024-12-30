@@ -132,6 +132,7 @@ FINAL DSA CODES
 | [1063-best-sightseeing-pair](https://github.com/saurabhnagaich0817/DSA/tree/master/1063-best-sightseeing-pair) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/saurabhnagaich0817/DSA/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/saurabhnagaich0817/DSA/tree/master/1989-minimum-xor-sum-of-two-arrays) |
+| [2562-count-ways-to-build-good-strings](https://github.com/saurabhnagaich0817/DSA/tree/master/2562-count-ways-to-build-good-strings) |
 ## Matrix
 |  |
 | ------- |
