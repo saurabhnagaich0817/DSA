@@ -361,6 +361,7 @@ FINAL DSA CODES
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/saurabhnagaich0817/DSA/tree/master/0089-gray-code) |
+| [0190-reverse-bits](https://github.com/saurabhnagaich0817/DSA/tree/master/0190-reverse-bits) |
 | [0980-find-the-shortest-superstring](https://github.com/saurabhnagaich0817/DSA/tree/master/0980-find-the-shortest-superstring) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/saurabhnagaich0817/DSA/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2272-maximum-good-people-based-on-statements](https://github.com/saurabhnagaich0817/DSA/tree/master/2272-maximum-good-people-based-on-statements) |
@@ -405,4 +406,8 @@ FINAL DSA CODES
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/0731-my-calendar-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/saurabhnagaich0817/DSA/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
