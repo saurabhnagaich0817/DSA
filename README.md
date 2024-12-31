@@ -33,6 +33,7 @@ FINAL DSA CODES
 | [0971-shortest-bridge](https://github.com/saurabhnagaich0817/DSA/tree/master/0971-shortest-bridge) |
 | [0980-find-the-shortest-superstring](https://github.com/saurabhnagaich0817/DSA/tree/master/0980-find-the-shortest-superstring) |
 | [0999-regions-cut-by-slashes](https://github.com/saurabhnagaich0817/DSA/tree/master/0999-regions-cut-by-slashes) |
+| [1025-minimum-cost-for-tickets](https://github.com/saurabhnagaich0817/DSA/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/saurabhnagaich0817/DSA/tree/master/1036-rotting-oranges) |
 | [1063-best-sightseeing-pair](https://github.com/saurabhnagaich0817/DSA/tree/master/1063-best-sightseeing-pair) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/saurabhnagaich0817/DSA/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -142,6 +143,7 @@ FINAL DSA CODES
 | [0494-target-sum](https://github.com/saurabhnagaich0817/DSA/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/saurabhnagaich0817/DSA/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0980-find-the-shortest-superstring](https://github.com/saurabhnagaich0817/DSA/tree/master/0980-find-the-shortest-superstring) |
+| [1025-minimum-cost-for-tickets](https://github.com/saurabhnagaich0817/DSA/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/saurabhnagaich0817/DSA/tree/master/1063-best-sightseeing-pair) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/saurabhnagaich0817/DSA/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/saurabhnagaich0817/DSA/tree/master/1989-minimum-xor-sum-of-two-arrays) |
