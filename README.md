@@ -58,6 +58,7 @@ FINAL DSA CODES
 | [2272-maximum-good-people-based-on-statements](https://github.com/saurabhnagaich0817/DSA/tree/master/2272-maximum-good-people-based-on-statements) |
 | [2318-maximum-points-in-an-archery-competition](https://github.com/saurabhnagaich0817/DSA/tree/master/2318-maximum-points-in-an-archery-competition) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/saurabhnagaich0817/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2465-shifting-letters-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/2465-shifting-letters-ii) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/saurabhnagaich0817/DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/saurabhnagaich0817/DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/saurabhnagaich0817/DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -281,6 +282,7 @@ FINAL DSA CODES
 | [2166-number-of-valid-move-combinations-on-chessboard](https://github.com/saurabhnagaich0817/DSA/tree/master/2166-number-of-valid-move-combinations-on-chessboard) |
 | [2232-adding-spaces-to-a-string](https://github.com/saurabhnagaich0817/DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/saurabhnagaich0817/DSA/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2465-shifting-letters-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/2465-shifting-letters-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/saurabhnagaich0817/DSA/tree/master/2470-removing-stars-from-a-string) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/saurabhnagaich0817/DSA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/3635-smallest-divisible-digit-product-ii) |
@@ -306,6 +308,7 @@ FINAL DSA CODES
 | [0724-find-pivot-index](https://github.com/saurabhnagaich0817/DSA/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/saurabhnagaich0817/DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2465-shifting-letters-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/2465-shifting-letters-ii) |
 | [3427-special-array-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/3427-special-array-ii) |
 ## String Matching
 |  |
