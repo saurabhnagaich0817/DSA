@@ -123,6 +123,7 @@ FINAL DSA CODES
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/saurabhnagaich0817/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/saurabhnagaich0817/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/saurabhnagaich0817/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0394-decode-string](https://github.com/saurabhnagaich0817/DSA/tree/master/0394-decode-string) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/saurabhnagaich0817/DSA/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/saurabhnagaich0817/DSA/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -179,6 +180,7 @@ FINAL DSA CODES
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/saurabhnagaich0817/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/saurabhnagaich0817/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/saurabhnagaich0817/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0801-is-graph-bipartite](https://github.com/saurabhnagaich0817/DSA/tree/master/0801-is-graph-bipartite) |
 | [0971-shortest-bridge](https://github.com/saurabhnagaich0817/DSA/tree/master/0971-shortest-bridge) |
 | [0999-regions-cut-by-slashes](https://github.com/saurabhnagaich0817/DSA/tree/master/0999-regions-cut-by-slashes) |
@@ -355,6 +357,7 @@ FINAL DSA CODES
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/saurabhnagaich0817/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/saurabhnagaich0817/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/saurabhnagaich0817/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/saurabhnagaich0817/DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/saurabhnagaich0817/DSA/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/saurabhnagaich0817/DSA/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -364,6 +367,7 @@ FINAL DSA CODES
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/saurabhnagaich0817/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/saurabhnagaich0817/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/saurabhnagaich0817/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/saurabhnagaich0817/DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/saurabhnagaich0817/DSA/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Backtracking
