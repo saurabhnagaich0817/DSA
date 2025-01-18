@@ -39,6 +39,7 @@ FINAL DSA CODES
 | [1036-rotting-oranges](https://github.com/saurabhnagaich0817/DSA/tree/master/1036-rotting-oranges) |
 | [1063-best-sightseeing-pair](https://github.com/saurabhnagaich0817/DSA/tree/master/1063-best-sightseeing-pair) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/saurabhnagaich0817/DSA/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/saurabhnagaich0817/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/saurabhnagaich0817/DSA/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/saurabhnagaich0817/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/saurabhnagaich0817/DSA/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -171,6 +172,7 @@ FINAL DSA CODES
 | [0971-shortest-bridge](https://github.com/saurabhnagaich0817/DSA/tree/master/0971-shortest-bridge) |
 | [0999-regions-cut-by-slashes](https://github.com/saurabhnagaich0817/DSA/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/saurabhnagaich0817/DSA/tree/master/1036-rotting-oranges) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/saurabhnagaich0817/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/saurabhnagaich0817/DSA/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1972-rotating-the-box](https://github.com/saurabhnagaich0817/DSA/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/saurabhnagaich0817/DSA/tree/master/2089-maximum-matrix-sum) |
@@ -196,6 +198,7 @@ FINAL DSA CODES
 | [0971-shortest-bridge](https://github.com/saurabhnagaich0817/DSA/tree/master/0971-shortest-bridge) |
 | [0999-regions-cut-by-slashes](https://github.com/saurabhnagaich0817/DSA/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/saurabhnagaich0817/DSA/tree/master/1036-rotting-oranges) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/saurabhnagaich0817/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/saurabhnagaich0817/DSA/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/saurabhnagaich0817/DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/saurabhnagaich0817/DSA/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -211,6 +214,7 @@ FINAL DSA CODES
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/saurabhnagaich0817/DSA/tree/master/0801-is-graph-bipartite) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/saurabhnagaich0817/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/saurabhnagaich0817/DSA/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1706-min-cost-to-connect-all-points](https://github.com/saurabhnagaich0817/DSA/tree/master/1706-min-cost-to-connect-all-points) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/saurabhnagaich0817/DSA/tree/master/2189-maximum-path-quality-of-a-graph) |
@@ -331,6 +335,7 @@ FINAL DSA CODES
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/saurabhnagaich0817/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/saurabhnagaich0817/DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/saurabhnagaich0817/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/saurabhnagaich0817/DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/saurabhnagaich0817/DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/saurabhnagaich0817/DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -439,4 +444,8 @@ FINAL DSA CODES
 | [0190-reverse-bits](https://github.com/saurabhnagaich0817/DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/saurabhnagaich0817/DSA/tree/master/0191-number-of-1-bits) |
 | [1873-longest-nice-substring](https://github.com/saurabhnagaich0817/DSA/tree/master/1873-longest-nice-substring) |
+## Shortest Path
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/saurabhnagaich0817/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
