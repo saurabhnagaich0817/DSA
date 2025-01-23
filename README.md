@@ -39,6 +39,7 @@ FINAL DSA CODES
 | [1036-rotting-oranges](https://github.com/saurabhnagaich0817/DSA/tree/master/1036-rotting-oranges) |
 | [1063-best-sightseeing-pair](https://github.com/saurabhnagaich0817/DSA/tree/master/1063-best-sightseeing-pair) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/saurabhnagaich0817/DSA/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1396-count-servers-that-communicate](https://github.com/saurabhnagaich0817/DSA/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/saurabhnagaich0817/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/saurabhnagaich0817/DSA/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/saurabhnagaich0817/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -173,6 +174,7 @@ FINAL DSA CODES
 | [0971-shortest-bridge](https://github.com/saurabhnagaich0817/DSA/tree/master/0971-shortest-bridge) |
 | [0999-regions-cut-by-slashes](https://github.com/saurabhnagaich0817/DSA/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/saurabhnagaich0817/DSA/tree/master/1036-rotting-oranges) |
+| [1396-count-servers-that-communicate](https://github.com/saurabhnagaich0817/DSA/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/saurabhnagaich0817/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/saurabhnagaich0817/DSA/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1972-rotating-the-box](https://github.com/saurabhnagaich0817/DSA/tree/master/1972-rotating-the-box) |
@@ -188,6 +190,7 @@ FINAL DSA CODES
 | [0801-is-graph-bipartite](https://github.com/saurabhnagaich0817/DSA/tree/master/0801-is-graph-bipartite) |
 | [0971-shortest-bridge](https://github.com/saurabhnagaich0817/DSA/tree/master/0971-shortest-bridge) |
 | [0999-regions-cut-by-slashes](https://github.com/saurabhnagaich0817/DSA/tree/master/0999-regions-cut-by-slashes) |
+| [1396-count-servers-that-communicate](https://github.com/saurabhnagaich0817/DSA/tree/master/1396-count-servers-that-communicate) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/saurabhnagaich0817/DSA/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/saurabhnagaich0817/DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/saurabhnagaich0817/DSA/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -201,6 +204,7 @@ FINAL DSA CODES
 | [0971-shortest-bridge](https://github.com/saurabhnagaich0817/DSA/tree/master/0971-shortest-bridge) |
 | [0999-regions-cut-by-slashes](https://github.com/saurabhnagaich0817/DSA/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/saurabhnagaich0817/DSA/tree/master/1036-rotting-oranges) |
+| [1396-count-servers-that-communicate](https://github.com/saurabhnagaich0817/DSA/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/saurabhnagaich0817/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/saurabhnagaich0817/DSA/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/saurabhnagaich0817/DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -211,6 +215,7 @@ FINAL DSA CODES
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/saurabhnagaich0817/DSA/tree/master/0801-is-graph-bipartite) |
 | [0999-regions-cut-by-slashes](https://github.com/saurabhnagaich0817/DSA/tree/master/0999-regions-cut-by-slashes) |
+| [1396-count-servers-that-communicate](https://github.com/saurabhnagaich0817/DSA/tree/master/1396-count-servers-that-communicate) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/saurabhnagaich0817/DSA/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1706-min-cost-to-connect-all-points](https://github.com/saurabhnagaich0817/DSA/tree/master/1706-min-cost-to-connect-all-points) |
 ## Graph
@@ -332,6 +337,7 @@ FINAL DSA CODES
 ## Counting
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/saurabhnagaich0817/DSA/tree/master/1396-count-servers-that-communicate) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/saurabhnagaich0817/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/saurabhnagaich0817/DSA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Heap (Priority Queue)
