@@ -244,6 +244,7 @@ FINAL DSA CODES
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/saurabhnagaich0817/DSA/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/saurabhnagaich0817/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/saurabhnagaich0817/DSA/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/saurabhnagaich0817/DSA/tree/master/0089-gray-code) |
@@ -282,6 +283,7 @@ FINAL DSA CODES
 | [0024-swap-nodes-in-pairs](https://github.com/saurabhnagaich0817/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/saurabhnagaich0817/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/saurabhnagaich0817/DSA/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/saurabhnagaich0817/DSA/tree/master/0050-powx-n) |
 | [0394-decode-string](https://github.com/saurabhnagaich0817/DSA/tree/master/0394-decode-string) |
 ## String
 |  |
