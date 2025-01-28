@@ -5,8 +5,8 @@ class Solution {
         int j=0;
 
         int D =s.length();
-        for(char c :s.toCharArray()){
-            if(c == 'I'){
+        for(int i=0;i<s.length();i++){
+            if(s.charAt(i)== 'I'){
                 res[j++]=I;
                 I++;
             }else{
