@@ -33,6 +33,7 @@ FINAL DSA CODES
 | [0941-sort-array-by-parity](https://github.com/saurabhnagaich0817/DSA/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/0958-sort-array-by-parity-ii) |
 | [0971-shortest-bridge](https://github.com/saurabhnagaich0817/DSA/tree/master/0971-shortest-bridge) |
+| [0979-di-string-match](https://github.com/saurabhnagaich0817/DSA/tree/master/0979-di-string-match) |
 | [0980-find-the-shortest-superstring](https://github.com/saurabhnagaich0817/DSA/tree/master/0980-find-the-shortest-superstring) |
 | [0999-regions-cut-by-slashes](https://github.com/saurabhnagaich0817/DSA/tree/master/0999-regions-cut-by-slashes) |
 | [1025-minimum-cost-for-tickets](https://github.com/saurabhnagaich0817/DSA/tree/master/1025-minimum-cost-for-tickets) |
@@ -114,6 +115,7 @@ FINAL DSA CODES
 | [0350-intersection-of-two-arrays-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0941-sort-array-by-parity](https://github.com/saurabhnagaich0817/DSA/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/0958-sort-array-by-parity-ii) |
+| [0979-di-string-match](https://github.com/saurabhnagaich0817/DSA/tree/master/0979-di-string-match) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/saurabhnagaich0817/DSA/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/saurabhnagaich0817/DSA/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1972-rotating-the-box](https://github.com/saurabhnagaich0817/DSA/tree/master/1972-rotating-the-box) |
@@ -267,6 +269,7 @@ FINAL DSA CODES
 | ------- |
 | [0044-wildcard-matching](https://github.com/saurabhnagaich0817/DSA/tree/master/0044-wildcard-matching) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/saurabhnagaich0817/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0979-di-string-match](https://github.com/saurabhnagaich0817/DSA/tree/master/0979-di-string-match) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/saurabhnagaich0817/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1917-maximum-average-pass-ratio](https://github.com/saurabhnagaich0817/DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/saurabhnagaich0817/DSA/tree/master/2089-maximum-matrix-sum) |
@@ -298,6 +301,7 @@ FINAL DSA CODES
 | [0151-reverse-words-in-a-string](https://github.com/saurabhnagaich0817/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0290-word-pattern](https://github.com/saurabhnagaich0817/DSA/tree/master/0290-word-pattern) |
 | [0394-decode-string](https://github.com/saurabhnagaich0817/DSA/tree/master/0394-decode-string) |
+| [0979-di-string-match](https://github.com/saurabhnagaich0817/DSA/tree/master/0979-di-string-match) |
 | [0980-find-the-shortest-superstring](https://github.com/saurabhnagaich0817/DSA/tree/master/0980-find-the-shortest-superstring) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/saurabhnagaich0817/DSA/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/saurabhnagaich0817/DSA/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
