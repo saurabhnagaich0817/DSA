@@ -22,6 +22,7 @@ FINAL DSA CODES
 | [0414-third-maximum-number](https://github.com/saurabhnagaich0817/DSA/tree/master/0414-third-maximum-number) |
 | [0494-target-sum](https://github.com/saurabhnagaich0817/DSA/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/saurabhnagaich0817/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/saurabhnagaich0817/DSA/tree/master/0525-contiguous-array) |
 | [0575-distribute-candies](https://github.com/saurabhnagaich0817/DSA/tree/master/0575-distribute-candies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/saurabhnagaich0817/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -134,6 +135,7 @@ FINAL DSA CODES
 | [0145-binary-tree-postorder-traversal](https://github.com/saurabhnagaich0817/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0394-decode-string](https://github.com/saurabhnagaich0817/DSA/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/saurabhnagaich0817/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/0503-next-greater-element-ii) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/saurabhnagaich0817/DSA/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/saurabhnagaich0817/DSA/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2470-removing-stars-from-a-string](https://github.com/saurabhnagaich0817/DSA/tree/master/2470-removing-stars-from-a-string) |
@@ -141,6 +143,7 @@ FINAL DSA CODES
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/saurabhnagaich0817/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/0503-next-greater-element-ii) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/saurabhnagaich0817/DSA/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Sliding Window
 |  |
