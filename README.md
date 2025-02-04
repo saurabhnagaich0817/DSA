@@ -11,6 +11,7 @@ FINAL DSA CODES
 | [0018-4sum](https://github.com/saurabhnagaich0817/DSA/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/saurabhnagaich0817/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/saurabhnagaich0817/DSA/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/saurabhnagaich0817/DSA/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/saurabhnagaich0817/DSA/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/saurabhnagaich0817/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -112,6 +113,7 @@ FINAL DSA CODES
 | [0015-3sum](https://github.com/saurabhnagaich0817/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/saurabhnagaich0817/DSA/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saurabhnagaich0817/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/saurabhnagaich0817/DSA/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/saurabhnagaich0817/DSA/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/saurabhnagaich0817/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/saurabhnagaich0817/DSA/tree/master/0189-rotate-array) |
@@ -130,6 +132,7 @@ FINAL DSA CODES
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/saurabhnagaich0817/DSA/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/saurabhnagaich0817/DSA/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/saurabhnagaich0817/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/saurabhnagaich0817/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/saurabhnagaich0817/DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -142,6 +145,7 @@ FINAL DSA CODES
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/saurabhnagaich0817/DSA/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/saurabhnagaich0817/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/0503-next-greater-element-ii) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/saurabhnagaich0817/DSA/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -159,6 +163,7 @@ FINAL DSA CODES
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/saurabhnagaich0817/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/saurabhnagaich0817/DSA/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/saurabhnagaich0817/DSA/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/saurabhnagaich0817/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/0063-unique-paths-ii) |
