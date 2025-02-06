@@ -42,6 +42,7 @@ FINAL DSA CODES
 | [1025-minimum-cost-for-tickets](https://github.com/saurabhnagaich0817/DSA/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/saurabhnagaich0817/DSA/tree/master/1036-rotting-oranges) |
 | [1063-best-sightseeing-pair](https://github.com/saurabhnagaich0817/DSA/tree/master/1063-best-sightseeing-pair) |
+| [1364-tuple-with-same-product](https://github.com/saurabhnagaich0817/DSA/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/saurabhnagaich0817/DSA/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1396-count-servers-that-communicate](https://github.com/saurabhnagaich0817/DSA/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/saurabhnagaich0817/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -88,6 +89,7 @@ FINAL DSA CODES
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/saurabhnagaich0817/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0870-magic-squares-in-grid](https://github.com/saurabhnagaich0817/DSA/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/saurabhnagaich0817/DSA/tree/master/0999-regions-cut-by-slashes) |
+| [1364-tuple-with-same-product](https://github.com/saurabhnagaich0817/DSA/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/saurabhnagaich0817/DSA/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1873-longest-nice-substring](https://github.com/saurabhnagaich0817/DSA/tree/master/1873-longest-nice-substring) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/saurabhnagaich0817/DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -359,6 +361,7 @@ FINAL DSA CODES
 ## Counting
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/saurabhnagaich0817/DSA/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/saurabhnagaich0817/DSA/tree/master/1396-count-servers-that-communicate) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/saurabhnagaich0817/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/saurabhnagaich0817/DSA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
