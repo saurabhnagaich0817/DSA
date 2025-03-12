@@ -66,6 +66,7 @@ FINAL DSA CODES
 | [2318-maximum-points-in-an-archery-competition](https://github.com/saurabhnagaich0817/DSA/tree/master/2318-maximum-points-in-an-archery-competition) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/saurabhnagaich0817/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2465-shifting-letters-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/2465-shifting-letters-ii) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/saurabhnagaich0817/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/saurabhnagaich0817/DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/saurabhnagaich0817/DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/saurabhnagaich0817/DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -106,6 +107,7 @@ FINAL DSA CODES
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/saurabhnagaich0817/DSA/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/saurabhnagaich0817/DSA/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/saurabhnagaich0817/DSA/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/saurabhnagaich0817/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/saurabhnagaich0817/DSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/saurabhnagaich0817/DSA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/3427-special-array-ii) |
@@ -367,6 +369,7 @@ FINAL DSA CODES
 | [1364-tuple-with-same-product](https://github.com/saurabhnagaich0817/DSA/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/saurabhnagaich0817/DSA/tree/master/1396-count-servers-that-communicate) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/saurabhnagaich0817/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/saurabhnagaich0817/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/saurabhnagaich0817/DSA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Heap (Priority Queue)
 |  |
