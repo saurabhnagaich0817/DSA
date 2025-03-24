@@ -1,13 +1,13 @@
 class Solution {
     public int hammingWeight(int n) {
-        int count =0;
-        while(n>0){
-            int rem = n%2;
-            if(rem == 1){
-                count++;
-            }
-            n = n/2;
-        }
-        return count;
+       int c=0;
+       int mask=1;
+       for(int i=0;i<=32;i++){
+           if((n&mask)!=0){
+            c++;
+           }
+           mask <<=1;
+       }
+       return c;
     }
 }
