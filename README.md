@@ -73,6 +73,7 @@ FINAL DSA CODES
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/saurabhnagaich0817/DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2868-continuous-subarrays](https://github.com/saurabhnagaich0817/DSA/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/saurabhnagaich0817/DSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/saurabhnagaich0817/DSA/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3427-special-array-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/saurabhnagaich0817/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/saurabhnagaich0817/DSA/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
