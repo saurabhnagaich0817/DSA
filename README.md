@@ -79,6 +79,7 @@ FINAL DSA CODES
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/saurabhnagaich0817/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/saurabhnagaich0817/DSA/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/saurabhnagaich0817/DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/saurabhnagaich0817/DSA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -101,6 +102,7 @@ FINAL DSA CODES
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/saurabhnagaich0817/DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/saurabhnagaich0817/DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/saurabhnagaich0817/DSA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/saurabhnagaich0817/DSA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Binary Search
 |  |
 | ------- |
