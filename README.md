@@ -65,6 +65,7 @@ FINAL DSA CODES
 | [2265-partition-array-according-to-given-pivot](https://github.com/saurabhnagaich0817/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/saurabhnagaich0817/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2272-maximum-good-people-based-on-statements](https://github.com/saurabhnagaich0817/DSA/tree/master/2272-maximum-good-people-based-on-statements) |
+| [2280-count-good-triplets-in-an-array](https://github.com/saurabhnagaich0817/DSA/tree/master/2280-count-good-triplets-in-an-array) |
 | [2318-maximum-points-in-an-archery-competition](https://github.com/saurabhnagaich0817/DSA/tree/master/2318-maximum-points-in-an-archery-competition) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/saurabhnagaich0817/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2465-shifting-letters-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/2465-shifting-letters-ii) |
@@ -114,6 +115,7 @@ FINAL DSA CODES
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/saurabhnagaich0817/DSA/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/saurabhnagaich0817/DSA/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/saurabhnagaich0817/DSA/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2280-count-good-triplets-in-an-array](https://github.com/saurabhnagaich0817/DSA/tree/master/2280-count-good-triplets-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/saurabhnagaich0817/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/saurabhnagaich0817/DSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/saurabhnagaich0817/DSA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -412,6 +414,7 @@ FINAL DSA CODES
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/0731-my-calendar-ii) |
+| [2280-count-good-triplets-in-an-array](https://github.com/saurabhnagaich0817/DSA/tree/master/2280-count-good-triplets-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/saurabhnagaich0817/DSA/tree/master/2868-continuous-subarrays) |
 ## Monotonic Queue
 |  |
@@ -510,14 +513,24 @@ FINAL DSA CODES
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/0731-my-calendar-ii) |
+| [2280-count-good-triplets-in-an-array](https://github.com/saurabhnagaich0817/DSA/tree/master/2280-count-good-triplets-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/saurabhnagaich0817/DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/saurabhnagaich0817/DSA/tree/master/0191-number-of-1-bits) |
 | [1873-longest-nice-substring](https://github.com/saurabhnagaich0817/DSA/tree/master/1873-longest-nice-substring) |
+| [2280-count-good-triplets-in-an-array](https://github.com/saurabhnagaich0817/DSA/tree/master/2280-count-good-triplets-in-an-array) |
 ## Shortest Path
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/saurabhnagaich0817/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/saurabhnagaich0817/DSA/tree/master/2280-count-good-triplets-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/saurabhnagaich0817/DSA/tree/master/2280-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
