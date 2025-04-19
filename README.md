@@ -12,6 +12,7 @@ FINAL DSA CODES
 | [0033-search-in-rotated-sorted-array](https://github.com/saurabhnagaich0817/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/saurabhnagaich0817/DSA/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/saurabhnagaich0817/DSA/tree/master/0042-trapping-rain-water) |
+| [0047-permutations-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/saurabhnagaich0817/DSA/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/saurabhnagaich0817/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -358,6 +359,7 @@ FINAL DSA CODES
 | ------- |
 | [0015-3sum](https://github.com/saurabhnagaich0817/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/saurabhnagaich0817/DSA/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/saurabhnagaich0817/DSA/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/saurabhnagaich0817/DSA/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -448,6 +450,7 @@ FINAL DSA CODES
 ## Backtracking
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/0047-permutations-ii) |
 | [0089-gray-code](https://github.com/saurabhnagaich0817/DSA/tree/master/0089-gray-code) |
 | [0494-target-sum](https://github.com/saurabhnagaich0817/DSA/tree/master/0494-target-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/saurabhnagaich0817/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
