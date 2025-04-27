@@ -26,6 +26,7 @@ FINAL DSA CODES
 | [0496-next-greater-element-i](https://github.com/saurabhnagaich0817/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/saurabhnagaich0817/DSA/tree/master/0525-contiguous-array) |
+| [0539-minimum-time-difference](https://github.com/saurabhnagaich0817/DSA/tree/master/0539-minimum-time-difference) |
 | [0575-distribute-candies](https://github.com/saurabhnagaich0817/DSA/tree/master/0575-distribute-candies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/saurabhnagaich0817/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/saurabhnagaich0817/DSA/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -287,6 +288,7 @@ FINAL DSA CODES
 | [0089-gray-code](https://github.com/saurabhnagaich0817/DSA/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/saurabhnagaich0817/DSA/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/saurabhnagaich0817/DSA/tree/master/0371-sum-of-two-integers) |
+| [0539-minimum-time-difference](https://github.com/saurabhnagaich0817/DSA/tree/master/0539-minimum-time-difference) |
 | [0870-magic-squares-in-grid](https://github.com/saurabhnagaich0817/DSA/tree/master/0870-magic-squares-in-grid) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/saurabhnagaich0817/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/saurabhnagaich0817/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -341,6 +343,7 @@ FINAL DSA CODES
 | [0151-reverse-words-in-a-string](https://github.com/saurabhnagaich0817/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0290-word-pattern](https://github.com/saurabhnagaich0817/DSA/tree/master/0290-word-pattern) |
 | [0394-decode-string](https://github.com/saurabhnagaich0817/DSA/tree/master/0394-decode-string) |
+| [0539-minimum-time-difference](https://github.com/saurabhnagaich0817/DSA/tree/master/0539-minimum-time-difference) |
 | [0979-di-string-match](https://github.com/saurabhnagaich0817/DSA/tree/master/0979-di-string-match) |
 | [0980-find-the-shortest-superstring](https://github.com/saurabhnagaich0817/DSA/tree/master/0980-find-the-shortest-superstring) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/saurabhnagaich0817/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -365,6 +368,7 @@ FINAL DSA CODES
 | [0088-merge-sorted-array](https://github.com/saurabhnagaich0817/DSA/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/saurabhnagaich0817/DSA/tree/master/0414-third-maximum-number) |
+| [0539-minimum-time-difference](https://github.com/saurabhnagaich0817/DSA/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/saurabhnagaich0817/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0941-sort-array-by-parity](https://github.com/saurabhnagaich0817/DSA/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/0958-sort-array-by-parity-ii) |
