@@ -150,6 +150,7 @@ FINAL DSA CODES
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/saurabhnagaich0817/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/saurabhnagaich0817/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/saurabhnagaich0817/DSA/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/saurabhnagaich0817/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/saurabhnagaich0817/DSA/tree/master/0144-binary-tree-preorder-traversal) |
@@ -183,6 +184,7 @@ FINAL DSA CODES
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/saurabhnagaich0817/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/saurabhnagaich0817/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/saurabhnagaich0817/DSA/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/saurabhnagaich0817/DSA/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/saurabhnagaich0817/DSA/tree/master/0062-unique-paths) |
@@ -338,6 +340,7 @@ FINAL DSA CODES
 | [0008-string-to-integer-atoi](https://github.com/saurabhnagaich0817/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/saurabhnagaich0817/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saurabhnagaich0817/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/saurabhnagaich0817/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/saurabhnagaich0817/DSA/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/saurabhnagaich0817/DSA/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/saurabhnagaich0817/DSA/tree/master/0151-reverse-words-in-a-string) |
