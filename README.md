@@ -296,6 +296,7 @@ FINAL DSA CODES
 | [0371-sum-of-two-integers](https://github.com/saurabhnagaich0817/DSA/tree/master/0371-sum-of-two-integers) |
 | [0539-minimum-time-difference](https://github.com/saurabhnagaich0817/DSA/tree/master/0539-minimum-time-difference) |
 | [0870-magic-squares-in-grid](https://github.com/saurabhnagaich0817/DSA/tree/master/0870-magic-squares-in-grid) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/saurabhnagaich0817/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/saurabhnagaich0817/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/saurabhnagaich0817/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/saurabhnagaich0817/DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -331,6 +332,7 @@ FINAL DSA CODES
 | [0025-reverse-nodes-in-k-group](https://github.com/saurabhnagaich0817/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/saurabhnagaich0817/DSA/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/saurabhnagaich0817/DSA/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/saurabhnagaich0817/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
