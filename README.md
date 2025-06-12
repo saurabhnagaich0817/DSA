@@ -94,6 +94,7 @@ FINAL DSA CODES
 | [0049-group-anagrams](https://github.com/saurabhnagaich0817/DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/saurabhnagaich0817/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/saurabhnagaich0817/DSA/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/saurabhnagaich0817/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0290-word-pattern](https://github.com/saurabhnagaich0817/DSA/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/saurabhnagaich0817/DSA/tree/master/0496-next-greater-element-i) |
@@ -136,6 +137,7 @@ FINAL DSA CODES
 | [0088-merge-sorted-array](https://github.com/saurabhnagaich0817/DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/saurabhnagaich0817/DSA/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/saurabhnagaich0817/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/saurabhnagaich0817/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/saurabhnagaich0817/DSA/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/saurabhnagaich0817/DSA/tree/master/0908-middle-of-the-linked-list) |
@@ -331,6 +333,7 @@ FINAL DSA CODES
 | [0024-swap-nodes-in-pairs](https://github.com/saurabhnagaich0817/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/saurabhnagaich0817/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/saurabhnagaich0817/DSA/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/saurabhnagaich0817/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/saurabhnagaich0817/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/saurabhnagaich0817/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
