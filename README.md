@@ -578,4 +578,8 @@ FINAL DSA CODES
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/saurabhnagaich0817/DSA/tree/master/0099-recover-binary-search-tree) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/saurabhnagaich0817/DSA/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
