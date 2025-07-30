@@ -74,6 +74,7 @@ FINAL DSA CODES
 | [2318-maximum-points-in-an-archery-competition](https://github.com/saurabhnagaich0817/DSA/tree/master/2318-maximum-points-in-an-archery-competition) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/saurabhnagaich0817/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2465-shifting-letters-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/2465-shifting-letters-ii) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/saurabhnagaich0817/DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/saurabhnagaich0817/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/saurabhnagaich0817/DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/saurabhnagaich0817/DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -512,6 +513,7 @@ FINAL DSA CODES
 | [1993-sum-of-all-subset-xor-totals](https://github.com/saurabhnagaich0817/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2272-maximum-good-people-based-on-statements](https://github.com/saurabhnagaich0817/DSA/tree/master/2272-maximum-good-people-based-on-statements) |
 | [2318-maximum-points-in-an-archery-competition](https://github.com/saurabhnagaich0817/DSA/tree/master/2318-maximum-points-in-an-archery-competition) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/saurabhnagaich0817/DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/saurabhnagaich0817/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Bitmask
 |  |
@@ -582,4 +584,8 @@ FINAL DSA CODES
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/saurabhnagaich0817/DSA/tree/master/0584-find-customer-referee) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/saurabhnagaich0817/DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
