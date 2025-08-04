@@ -8,6 +8,7 @@ FINAL DSA CODES
 | ------- |
 | [0001-two-sum](https://github.com/saurabhnagaich0817/DSA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/saurabhnagaich0817/DSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/saurabhnagaich0817/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/saurabhnagaich0817/DSA/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/saurabhnagaich0817/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/saurabhnagaich0817/DSA/tree/master/0036-valid-sudoku) |
@@ -134,6 +135,7 @@ FINAL DSA CODES
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/saurabhnagaich0817/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/saurabhnagaich0817/DSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/saurabhnagaich0817/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/saurabhnagaich0817/DSA/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saurabhnagaich0817/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/saurabhnagaich0817/DSA/tree/master/0042-trapping-rain-water) |
@@ -391,6 +393,7 @@ FINAL DSA CODES
 |  |
 | ------- |
 | [0015-3sum](https://github.com/saurabhnagaich0817/DSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/saurabhnagaich0817/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/saurabhnagaich0817/DSA/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/saurabhnagaich0817/DSA/tree/master/0049-group-anagrams) |
