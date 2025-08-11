@@ -305,6 +305,7 @@ FINAL DSA CODES
 | [0089-gray-code](https://github.com/saurabhnagaich0817/DSA/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/saurabhnagaich0817/DSA/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/saurabhnagaich0817/DSA/tree/master/0371-sum-of-two-integers) |
+| [0507-perfect-number](https://github.com/saurabhnagaich0817/DSA/tree/master/0507-perfect-number) |
 | [0539-minimum-time-difference](https://github.com/saurabhnagaich0817/DSA/tree/master/0539-minimum-time-difference) |
 | [0870-magic-squares-in-grid](https://github.com/saurabhnagaich0817/DSA/tree/master/0870-magic-squares-in-grid) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/saurabhnagaich0817/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
