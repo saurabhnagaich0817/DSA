@@ -23,6 +23,7 @@ FINAL DSA CODES
 | [0179-largest-number](https://github.com/saurabhnagaich0817/DSA/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/saurabhnagaich0817/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/saurabhnagaich0817/DSA/tree/master/0198-house-robber) |
+| [0287-find-the-duplicate-number](https://github.com/saurabhnagaich0817/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/saurabhnagaich0817/DSA/tree/master/0289-game-of-life) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/saurabhnagaich0817/DSA/tree/master/0414-third-maximum-number) |
@@ -120,6 +121,7 @@ FINAL DSA CODES
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/saurabhnagaich0817/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/saurabhnagaich0817/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0731-my-calendar-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/saurabhnagaich0817/DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -147,6 +149,7 @@ FINAL DSA CODES
 | [0160-intersection-of-two-linked-lists](https://github.com/saurabhnagaich0817/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/saurabhnagaich0817/DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/saurabhnagaich0817/DSA/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/saurabhnagaich0817/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/saurabhnagaich0817/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/saurabhnagaich0817/DSA/tree/master/0941-sort-array-by-parity) |
@@ -513,6 +516,7 @@ FINAL DSA CODES
 | [0089-gray-code](https://github.com/saurabhnagaich0817/DSA/tree/master/0089-gray-code) |
 | [0190-reverse-bits](https://github.com/saurabhnagaich0817/DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/saurabhnagaich0817/DSA/tree/master/0191-number-of-1-bits) |
+| [0287-find-the-duplicate-number](https://github.com/saurabhnagaich0817/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/saurabhnagaich0817/DSA/tree/master/0371-sum-of-two-integers) |
 | [0980-find-the-shortest-superstring](https://github.com/saurabhnagaich0817/DSA/tree/master/0980-find-the-shortest-superstring) |
 | [1873-longest-nice-substring](https://github.com/saurabhnagaich0817/DSA/tree/master/1873-longest-nice-substring) |
