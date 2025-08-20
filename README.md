@@ -37,6 +37,7 @@ FINAL DSA CODES
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/saurabhnagaich0817/DSA/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0724-find-pivot-index](https://github.com/saurabhnagaich0817/DSA/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/0731-my-calendar-ii) |
+| [0747-min-cost-climbing-stairs](https://github.com/saurabhnagaich0817/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-sliding-puzzle](https://github.com/saurabhnagaich0817/DSA/tree/master/0787-sliding-puzzle) |
 | [0870-magic-squares-in-grid](https://github.com/saurabhnagaich0817/DSA/tree/master/0870-magic-squares-in-grid) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/saurabhnagaich0817/DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -213,6 +214,7 @@ FINAL DSA CODES
 | [0198-house-robber](https://github.com/saurabhnagaich0817/DSA/tree/master/0198-house-robber) |
 | [0494-target-sum](https://github.com/saurabhnagaich0817/DSA/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/saurabhnagaich0817/DSA/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0747-min-cost-climbing-stairs](https://github.com/saurabhnagaich0817/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0980-find-the-shortest-superstring](https://github.com/saurabhnagaich0817/DSA/tree/master/0980-find-the-shortest-superstring) |
 | [1025-minimum-cost-for-tickets](https://github.com/saurabhnagaich0817/DSA/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/saurabhnagaich0817/DSA/tree/master/1063-best-sightseeing-pair) |
