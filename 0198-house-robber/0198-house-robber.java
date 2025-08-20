@@ -1,19 +1,22 @@
 class Solution {
     public int rob(int[] nums) {
-        int dp[]=new int[nums.length];
-        Arrays.fill(dp,-1);
-        return rob(nums,0,dp);
+        return find(nums);
 
     }
-     public int rob(int []nums,int i,int []dp){
-        if(i>=nums.length){
-            return 0;
+    public static int find(int []nums){
+        if(nums.length==1){
+            return nums[0];
         }
-        if(dp[i]!=-1){
-            return dp[i];
+        int []dp=new int[nums.length];
+        dp[0]=nums[0];
+        dp[1]=Math.max(nums[0],nums[1]);
+        for(int i=2;i<dp.length;i++){
+            int rob=nums[i]+dp[i-2];
+            int dn_rob=dp[i-1];
+            dp[i]=Math.max(rob,dn_rob);
         }
-        int x=rob(nums,i+1,dp);
-        int y=nums[i]+rob(nums,i+2,dp);
-        return dp[i]=Math.max(x,y);
+        return dp[dp.length-1];
+
     }
+    
 }
