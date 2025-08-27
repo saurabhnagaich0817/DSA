@@ -21,6 +21,7 @@ FINAL DSA CODES
 | [0088-merge-sorted-array](https://github.com/saurabhnagaich0817/DSA/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/saurabhnagaich0817/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/saurabhnagaich0817/DSA/tree/master/0135-candy) |
+| [0169-majority-element](https://github.com/saurabhnagaich0817/DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/saurabhnagaich0817/DSA/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/saurabhnagaich0817/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/saurabhnagaich0817/DSA/tree/master/0198-house-robber) |
@@ -106,6 +107,7 @@ FINAL DSA CODES
 | [0141-linked-list-cycle](https://github.com/saurabhnagaich0817/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/saurabhnagaich0817/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/saurabhnagaich0817/DSA/tree/master/0169-majority-element) |
 | [0290-word-pattern](https://github.com/saurabhnagaich0817/DSA/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/saurabhnagaich0817/DSA/tree/master/0496-next-greater-element-i) |
@@ -415,6 +417,7 @@ FINAL DSA CODES
 | [0049-group-anagrams](https://github.com/saurabhnagaich0817/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/saurabhnagaich0817/DSA/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/saurabhnagaich0817/DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/saurabhnagaich0817/DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/saurabhnagaich0817/DSA/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saurabhnagaich0817/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/saurabhnagaich0817/DSA/tree/master/0414-third-maximum-number) |
@@ -444,6 +447,7 @@ FINAL DSA CODES
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/saurabhnagaich0817/DSA/tree/master/0169-majority-element) |
 | [1364-tuple-with-same-product](https://github.com/saurabhnagaich0817/DSA/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/saurabhnagaich0817/DSA/tree/master/1396-count-servers-that-communicate) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/saurabhnagaich0817/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -581,6 +585,7 @@ FINAL DSA CODES
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/saurabhnagaich0817/DSA/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/saurabhnagaich0817/DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/saurabhnagaich0817/DSA/tree/master/0191-number-of-1-bits) |
 | [1873-longest-nice-substring](https://github.com/saurabhnagaich0817/DSA/tree/master/1873-longest-nice-substring) |
