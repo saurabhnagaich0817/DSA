@@ -334,6 +334,7 @@ FINAL DSA CODES
 | [0507-perfect-number](https://github.com/saurabhnagaich0817/DSA/tree/master/0507-perfect-number) |
 | [0539-minimum-time-difference](https://github.com/saurabhnagaich0817/DSA/tree/master/0539-minimum-time-difference) |
 | [0870-magic-squares-in-grid](https://github.com/saurabhnagaich0817/DSA/tree/master/0870-magic-squares-in-grid) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/saurabhnagaich0817/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/saurabhnagaich0817/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/saurabhnagaich0817/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/saurabhnagaich0817/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -374,6 +375,7 @@ FINAL DSA CODES
 | [0234-palindrome-linked-list](https://github.com/saurabhnagaich0817/DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/saurabhnagaich0817/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/saurabhnagaich0817/DSA/tree/master/0908-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/saurabhnagaich0817/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/saurabhnagaich0817/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
